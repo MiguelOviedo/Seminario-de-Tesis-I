@@ -1,0 +1,4 @@
+Método,CPU(J),RAM(J),Tiempo(s)
+Exhaustivo,30692.37,3670.43,2870.00
+Aleatorio,643.82,79.24,60.00
+Evolutivo,14951.87,1788.73,1900.00
